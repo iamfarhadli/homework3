@@ -1,0 +1,279 @@
+.bgpic {
+  display: inline-block;
+  background-image: url(./macbook.jpg);
+  background-size: cover;
+  height: 55vw;
+}
+.vs {
+  padding-top: 22px;
+}
+.headernav {
+  display: inline-block;
+  padding-left: 30vw;
+}
+
+img {
+  padding-left: 48px;
+}
+.headerul {
+  display: inline-block;
+  position: relative;
+}
+.headerli {
+  list-style: none;
+  display: inline;
+  position: relative;
+}
+.header-a {
+  text-decoration: none;
+  padding-left: 35px;
+  color: black;
+  font-family: cursive;
+}
+a:hover {
+  color: rgb(21, 167, 224);
+}
+.main-txt {
+  position: relative;
+  width: 35vw;
+  padding-left: 45vw;
+  padding-top: 10vw;
+  font-family: cursive;
+}
+.btn {
+  background-color: #10c9c0;
+  color: #fff;
+  padding: 10px;
+  font-family: cursive;
+  border-radius: 5px;
+  margin: 19px;
+  margin-left: 0px;
+}
+.main-div {
+  text-align: center;
+  font-family: cursive;
+  width: 98vw;
+}
+.prg {
+  width: 50vw;
+  padding-left: 25vw;
+}
+.signatur {
+  height: 70px;
+  width: 30vw;
+  padding: left 21vw;
+}
+.leaf-line {
+  margin-top: 3vw;
+}
+.leaf {
+  background-image: url(./envelopes_pencil_green_leaves-wallpaper-1366x768.jpg);
+  width: 98vw;
+  height: 50vw;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.div-skill {
+  padding-top: 11vw;
+  padding-left: 3vw;
+  font-family: cursive;
+}
+.p1 {
+  padding-left: 39px;
+  font-family: cursive;
+}
+.line {
+  position: relative;
+  width: 20vw;
+  height: 2px;
+  display: inline-block;
+  float: left;
+  margin-left: 41px;
+  background-color: #21c2bc;
+}
+.line2 {
+  display: inline-block;
+  width: 8vw;
+  height: 2px;
+  background-color: grey;
+}
+.p2 {
+  padding-left: 39px;
+  font-family: cursive;
+}
+.line3 {
+  width: 25vw;
+  height: 2px;
+  float: left;
+  display: inline-block;
+  margin-left: 41px;
+  background-color: #21c2bc;
+}
+.line4 {
+  display: inline-block;
+  width: 4vw;
+  height: 2px;
+  background-color: grey;
+}
+.p3 {
+  padding-left: 39px;
+  font-family: cursive;
+}
+.line5 {
+  width: 17vw;
+  float: left;
+  height: 2px;
+  margin-left: 41px;
+  background-color: #21c2bc;
+  display: inline-block;
+}
+.line6 {
+  width: 11vw;
+  float: left;
+  height: 2px;
+  background-color: grey;
+}
+h2 {
+  display: block;
+  margin: 0;
+}
+div {
+  display: inline-block;
+}
+img {
+  height: 30px;
+}
+.bluearea {
+  background-color: #21c2bc;
+  width: 98vw;
+  height: 10vw;
+  font-size: 14px;
+  padding-top: 62px;
+  font-family: cursive;
+  color:#fff;
+}
+.size{
+  width: 21%;
+  height: 15vw;
+  padding: 0;
+}
+.load{
+  text-align: center;
+  display: block;
+  background-color: #F5F5F5;
+  width: 98vw;
+  height: 2vw;
+  padding-top: 10px;
+  font-family: cursive;
+  margin: 0;
+  padding-bottom: 21px;
+}
+.pictures{
+  padding-right: 46px;
+  transform: translate(-48px);
+  margin: 0;
+  padding: 0;
+   width: 115.6vw;
+flex-wrap: wrap;
+ 
+}
+.video{
+  text-align: center;
+  font-family: cursive;
+}
+.process{
+  margin-top: 10vw;
+}
+.videolorem{
+  padding-left: 24vw;
+  width: 50vw;
+  color: grey;
+}
+.logos{
+  display: inline-block;
+  width: 194px;
+  margin-top: 20px;
+  padding: 20px 50px;
+  font-family: cursive;
+}
+.bluearea2{
+  background-color: #10C9C3;
+  font-family: cursive;
+  width: 98vw;
+  height: 20vw;
+}
+.bluearea2-p{
+  text-align: center;
+    margin-top: 90px;
+    width: 50vw;
+    margin-left: 300px;
+}
+.hopkins{
+  text-align: center;
+}
+
+.logodesign{
+  height: 200px;
+  width: 200px;
+}
+.inputs{
+  text-align: center;
+  width: 98vw;
+  background-color: #F5F5F5;
+  font-family: cursive;
+}
+.title{
+  width: 32vw;
+}
+.comment{
+  width: 32vw;
+  height: 10vw;
+  margin-right: 36px;
+}
+.sendbutton{
+  color: white;
+    border-radius: 3px;
+    width: 13vw;
+    height: 3vw;
+    background-color: #10C9C3;
+    margin-bottom: 40px;
+}
+.footer{
+  background-color: #141414;
+  font-family: cursive;
+  height:16vw
+}
+.footerdiv3{
+  float: right;
+}
+.footerdiv1{
+  margin: 37px;
+}
+.footernav{
+  display: inline-block;
+}
+.footerdiv2{
+  padding-left: 190px;
+}
+.footerdiv3{
+  padding-top: 45px;
+}
+.footerdiv5{
+  padding-right: 70px;
+}
+.footerdiv6{
+  padding-right: 20px;
+}
+.footerul{
+  display: inline-block;
+}
+.footerli{
+  list-style: none;
+}
+.footer-a{
+  text-decoration: none;
+  color:#AFAFAF;
+}
+.pictures-div{
+display: inline;
+}
